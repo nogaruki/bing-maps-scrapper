@@ -1,0 +1,41 @@
+{
+  "name": "bing-maps-scrapper",
+  "version": "1.0.0",
+  "description": "Bing Maps Scraper is an innovative application designed to automate the gathering of business data from Bing Maps. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nogaruki/bing-maps-scrapper.git"
+  },
+  "keywords": [
+    "bing-map-scrapper",
+    "nodejs",
+    "puppeteer",
+    "web-scrapper",
+    "data-extration",
+    "maps-api",
+    "business-data",
+    "csv-export",
+    "javascript",
+    "geolocation",
+    "automation",
+    "geolocation",
+    "expressjs",
+    "local-business",
+    "data-mining",
+    "research-tool"
+  ],
+  "author": "AzurIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nogaruki/bing-maps-scrapper/issues"
+  },
+  "homepage": "https://github.com/nogaruki/bing-maps-scrapper#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.6.0"
+  }
+}
